@@ -1,0 +1,11 @@
+C:\Users\Vartotojas\source\repos\1 Savarankiškas darbas\bin\Debug\1 Savarankiškas darbas.exe.config
+C:\Users\Vartotojas\source\repos\1 Savarankiškas darbas\bin\Debug\1 Savarankiškas darbas.exe
+C:\Users\Vartotojas\source\repos\1 Savarankiškas darbas\bin\Debug\1 Savarankiškas darbas.pdb
+C:\Users\Vartotojas\source\repos\1 Savarankiškas darbas\obj\Debug\1 Savarankiškas darbas.csprojAssemblyReference.cache
+C:\Users\Vartotojas\source\repos\1 Savarankiškas darbas\obj\Debug\1 Savarankiškas darbas.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\source\repos\1 Savarankiškas darbas\obj\Debug\1 Savarankiškas darbas.exe
+C:\Users\Vartotojas\source\repos\1 Savarankiškas darbas\obj\Debug\1 Savarankiškas darbas.pdb
+C:\Users\Vartotojas\source\repos\1 Savarankiškas darbas\bin\Debug\L3Data-Kaunas.csv
+C:\Users\Vartotojas\source\repos\1 Savarankiškas darbas\bin\Debug\L3Data-Kaunas2.csv
+C:\Users\Vartotojas\source\repos\1 Savarankiškas darbas\bin\Debug\L3Data-Vilnius.csv
+C:\Users\Vartotojas\source\repos\1 Savarankiškas darbas\bin\Debug\L3Data-Šiauliai.csv

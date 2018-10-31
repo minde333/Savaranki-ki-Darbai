@@ -1,0 +1,7 @@
+C:\Users\Vartotojas\source\repos\3LaborasPaveldejimas\bin\Debug\3LaborasPaveldejimas.exe.config
+C:\Users\Vartotojas\source\repos\3LaborasPaveldejimas\bin\Debug\3LaborasPaveldejimas.exe
+C:\Users\Vartotojas\source\repos\3LaborasPaveldejimas\bin\Debug\3LaborasPaveldejimas.pdb
+C:\Users\Vartotojas\source\repos\3LaborasPaveldejimas\obj\Debug\3LaborasPaveldejimas.csprojAssemblyReference.cache
+C:\Users\Vartotojas\source\repos\3LaborasPaveldejimas\obj\Debug\3LaborasPaveldejimas.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\source\repos\3LaborasPaveldejimas\obj\Debug\3LaborasPaveldejimas.exe
+C:\Users\Vartotojas\source\repos\3LaborasPaveldejimas\obj\Debug\3LaborasPaveldejimas.pdb

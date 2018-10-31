@@ -1,0 +1,7 @@
+C:\Users\Vartotojas\source\repos\2 Savarankiškas darbas\bin\Debug\2 Savarankiškas darbas.exe.config
+C:\Users\Vartotojas\source\repos\2 Savarankiškas darbas\bin\Debug\2 Savarankiškas darbas.exe
+C:\Users\Vartotojas\source\repos\2 Savarankiškas darbas\bin\Debug\2 Savarankiškas darbas.pdb
+C:\Users\Vartotojas\source\repos\2 Savarankiškas darbas\obj\Debug\2 Savarankiškas darbas.csprojAssemblyReference.cache
+C:\Users\Vartotojas\source\repos\2 Savarankiškas darbas\obj\Debug\2 Savarankiškas darbas.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\source\repos\2 Savarankiškas darbas\obj\Debug\2 Savarankiškas darbas.exe
+C:\Users\Vartotojas\source\repos\2 Savarankiškas darbas\obj\Debug\2 Savarankiškas darbas.pdb
